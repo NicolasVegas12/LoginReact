@@ -1,6 +1,6 @@
 body {
+  font-family: Lato,Sans-Serif;
   margin: 0;
-  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #eee;
